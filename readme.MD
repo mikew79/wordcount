@@ -12,7 +12,7 @@ ___
 
 A script is provided in the root of this repository to compile this project. please run `build.bat` in the root of this repository after cloning it.
 
-This will build the source placing the final output in the out/target folder
+This will build the source placing the final output in the `out/target` folder
 
 # Running the application
 
@@ -24,7 +24,7 @@ cd out\target
 java Count <filename to parse>
 ```
 
-Sample data has been provided in the `data` folder of this repositort, and executing `run.bat` from the root of this repository will excuate the application on this sample data, providing an example of how to run this application
+Sample data has been provided in the `data` folder of this repository, and executing `run.bat` from the root of this repository will excuate the application on this sample data, providing an example of how to run this application.
 
 
 ## Further Development
